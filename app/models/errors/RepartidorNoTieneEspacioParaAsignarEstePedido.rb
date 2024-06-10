@@ -1,0 +1,2 @@
+class RepartidorNoTieneEspacioParaAsignarEstePedido < StandardError
+end

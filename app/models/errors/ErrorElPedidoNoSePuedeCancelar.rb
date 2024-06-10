@@ -1,0 +1,2 @@
+class ErrorElPedidoNoSePuedeCancelar < StandardError
+end

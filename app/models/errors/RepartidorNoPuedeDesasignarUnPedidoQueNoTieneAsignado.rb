@@ -1,0 +1,2 @@
+class RepartidorNoPuedeDesasignarUnPedidoQueNoTieneAsignado < StandardError
+end

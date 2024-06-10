@@ -1,0 +1,2 @@
+class ResponsabilidadDeLaSubclase  < StandardError
+end

@@ -1,0 +1,2 @@
+class ErrorMenuInexistente < StandardError
+end

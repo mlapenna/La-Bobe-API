@@ -1,0 +1,2 @@
+class UsuarioNoTienePermisosParaConsultarElPedido < StandardError
+end

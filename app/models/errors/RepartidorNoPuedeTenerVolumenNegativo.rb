@@ -1,0 +1,3 @@
+class RepartidorNoPuedeTenerVolumenNegativo < StandardError
+end
+

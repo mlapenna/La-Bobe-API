@@ -1,0 +1,6 @@
+{
+"LOG_LEVEL":"info",
+"LOG_STREAM":"stdout",
+"ENABLE_RESET": "false",
+"OPEN_WEATHER_URL": "https://api.openweathermap.org/data/2.5/weather?lat=-34.6075682&lon=-58.4370894&appid=ce6ff11aa000d0b43665c9affb9a030c"
+}

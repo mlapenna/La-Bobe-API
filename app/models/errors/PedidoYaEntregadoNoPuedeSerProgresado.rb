@@ -1,0 +1,2 @@
+class PedidoYaEntregadoNoPuedeSerProgresado < StandardError
+end

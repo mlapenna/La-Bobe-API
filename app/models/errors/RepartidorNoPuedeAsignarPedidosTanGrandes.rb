@@ -1,0 +1,2 @@
+class RepartidorNoPuedeAsignarPedidosTanGrandes < StandardError
+end

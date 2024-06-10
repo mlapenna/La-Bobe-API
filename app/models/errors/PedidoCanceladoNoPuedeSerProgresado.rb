@@ -1,0 +1,2 @@
+class PedidoCanceladoNoPuedeSerProgresado < StandardError
+end
